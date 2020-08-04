@@ -1,0 +1,13 @@
+{
+  "sender": "Vin Company",
+  "destinations": [
+    "447777777777",
+    "447777777778",
+    "447777777779"
+  ],
+  "content": "My super awesome batch message",
+  "deliveryreporturl": "http://your.domain.com/delivery/report/path",
+  "schedule": "Wed Jul 19 2017 20:26:28 GMT+0100 (BST)",
+  "tag": "SummerSpecial",
+  "ttl": 10
+}

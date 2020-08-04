@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5138" started-at="2020-08-04T20:41:46 IST" finished-at="2020-08-04T20:41:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5138" started-at="2020-08-04T20:41:46 IST" finished-at="2020-08-04T20:41:51 IST">
+      <class name="smsworks.CancelMessage">
+        <test-method status="PASS" signature="cancelMsg()[pri:0, instance:smsworks.CancelMessage@5a8806ef]" name="cancelMsg" duration-ms="5085" started-at="2020-08-04T20:41:46 IST" finished-at="2020-08-04T20:41:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelMsg -->
+      </class> <!-- smsworks.CancelMessage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
